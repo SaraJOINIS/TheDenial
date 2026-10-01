@@ -1,0 +1,47 @@
+[
+	{
+		"Name": "AliceRow",
+		"PlayerName": "Alice",
+		"Score": 120
+	},
+	{
+		"Name": "BobRow",
+		"PlayerName": "Bob",
+		"Score": 50
+	},
+	{
+		"Name": "CharlieRow",
+		"PlayerName": "Charlie",
+		"Score": 200
+	},
+	{
+		"Name": "TiTiRow",
+		"PlayerName": "TiTi",
+		"Score": 140
+	},
+	{
+		"Name": "TaskNameTestRow",
+		"PlayerName": "TaskNameTest",
+		"Score": 100
+	},
+	{
+		"Name": "FredericRow",
+		"PlayerName": "Frederic",
+		"Score": 80
+	},
+	{
+		"Name": "FredRow",
+		"PlayerName": "Fred",
+		"Score": 0
+	},
+	{
+		"Name": "testRow",
+		"PlayerName": "test",
+		"Score": 0
+	},
+	{
+		"Name": "Row",
+		"PlayerName": "",
+		"Score": 1
+	}
+]
